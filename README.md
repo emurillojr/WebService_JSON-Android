@@ -1,4 +1,4 @@
-# WebService_JSON_API-Android
+# WebService_JSON-Android
 WebService JSON API Lab <br>
 The webservice you will use is: <br>
 http://34.227.59.215/FootballWebService/api/football/getFootballTeam <br>
